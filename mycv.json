@@ -1,0 +1,411 @@
+{
+  "personal_information": {
+    "full_name": "Asanka B. Ekanayake",
+    "professional_title": "IT Executive | Systems Automation & RPA Development",
+    "tagline": "Crafting seamless automation solutions",
+    "availability": "Open to new opportunities",
+    "years_experience": "12+",
+    "location": "Kurunegala, Sri Lanka",
+    "phone": "+94710479157",
+    "whatsapp": "+94710479157",
+    "email": "asanka_e@ykk.com",
+    "linkedin": "https://linkedin.com/in/asankaekanayake",
+    "github": "https://github.com/abelib-lk",
+    "codepen": "https://codepen.io/abellb-lk",
+    "facebook": "https://www.facebook.com/asanka.b.ekanayake",
+    "credly": "https://credly.com/users/asanka-b-ekanayake"
+  },
+  "professional_summary": "Results-driven IT Executive with over 12 years of experience, specializing in developing custom automation solutions and managing enterprise IT infrastructure. Expert in Robotic Process Automation (RPA) using UiPath to automate business processes and integrate systems. Proven expertise in leveraging PHP, Python, and PowerShell to build internal platforms and streamline operations. Holds key responsibilities in maintaining ISMS ISO/IEC 27001:2022 compliance and managing monitoring/security tools. Seeking to apply a unique blend of software development, RPA, and systems administration skills to drive digital transformation.",
+  "technical_proficiencies": [
+    {
+      "category": "Automation & RPA",
+      "items": [
+        "UiPath",
+        "Process Automation",
+        "Robotic Process Automation"
+      ]
+    },
+    {
+      "category": "Development & Scripting",
+      "items": [
+        "PHP",
+        "Python",
+        "PowerShell",
+        "HTML",
+        "JavaScript",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Systems & ERP",
+      "items": [
+        "AS400 (IBM i)",
+        "DB2",
+        "ODBC"
+      ]
+    },
+    {
+      "category": "Databases & Web Servers",
+      "items": [
+        "MySQL",
+        "MSSQL",
+        "Apache"
+      ]
+    },
+    {
+      "category": "Platforms & Services",
+      "items": [
+        "Windows Server",
+        "Ubuntu (WSL)",
+        "Active Directory",
+        "DHCP"
+      ]
+    },
+    {
+      "category": "IT Management Tools",
+      "items": [
+        "Endpoint Central",
+        "Desktop Central",
+        "Log360",
+        "Event Analyzer"
+      ]
+    },
+    {
+      "category": "Information Security",
+      "items": [
+        "ISMS (ISO/IEC 27001:2022) Implementation & Auditing"
+      ]
+    },
+    {
+      "category": "Data Analytics & BI",
+      "items": [
+        "Apache Superset",
+        "Data Visualization",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "category": "Concepts",
+      "items": [
+        "System Integration",
+        "Automation",
+        "Data Visualization",
+        "Dashboard Creation"
+      ]
+    }
+  ],
+  "professional_experience": [
+    {
+      "position": "IT Executive",
+      "company": "YKK Lanka (Pvt) Ltd",
+      "period": "2023 – Present",
+      "achievements": [
+        "Manage and maintain the company's AS400-based ERP solution, ensuring high availability and performance for all business operations.",
+        "Designed, developed, and deployed full-stack internal web applications using PHP, MySQL, and Apache to address critical business needs.",
+        "Engineered automated data pipelines by creating Python scripts (executed via Windows Task Scheduler) to extract data from AS400 DB2 via ODBC, transforming it into JSON for live dashboard consumption.",
+        "Utilize PowerShell scripting to automate user and resource management in Active Directory and DHCP, significantly reducing manual administrative tasks.",
+        "Administer a suite of IT management and security tools including Endpoint Central, Desktop Service Plus, Log360, and Event Analyzer for centralized monitoring, patch management, and security incident analysis.",
+        "Play a key role in maintaining and auditing the company's Information Security Management System (ISMS) aligned with the ISO/IEC 27001:2022 standard.",
+        "Design, develop, and deploy Robotic Process Automation (RPA) solutions using UiPath to automate repetitive business processes, increasing operational efficiency and reducing manual errors.",
+        "Identify automation opportunities across departments and implement UiPath robots to handle rule-based tasks, data entry, and system integration workflows.",
+        "Configure and maintain Ubuntu environments using Windows Subsystem for Linux (WSL) for development and data processing tasks.",
+        "Implement and configure Apache Superset for business intelligence and data visualization, creating interactive dashboards for various departments."
+      ]
+    },
+    {
+      "position": "IT Assistant",
+      "company": "The Co-operative Wholesale Establishment",
+      "period": "2011 – 2023",
+      "achievements": [
+        "Spearheaded the development and maintenance of the company website.",
+        "Managed, maintained, and troubleshooted the company-wide ERP system and MSSQL Server database.",
+        "Provided comprehensive technical support for operating systems, software, and hardware."
+      ]
+    },
+    {
+      "position": "Computer Operator (Networking and Office)",
+      "company": "Ministry of Co-operative & Internal Trade",
+      "period": "2009 – 2011"
+    },
+    {
+      "position": "Computer Operator (Data Entry and DBMS)",
+      "company": "Wayamba Development Bank (RDB)",
+      "period": "2006 – 2008"
+    }
+  ],
+  "personal_projects": [
+    {
+      "name": "Internal Automation Platforms (YKK Lanka)",
+      "description": "Architected and built multiple PHP/MySQL systems that enhanced operational efficiency",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "Apache"
+      ],
+      "components": [
+        "Device Access Request Platform",
+        "Meeting Room Booking System",
+        "Rented Printer Management System",
+        "Document Management System for ISMS compliance"
+      ]
+    },
+    {
+      "name": "AS400 Data Integration Dashboard",
+      "description": "Created a live reporting dashboard by developing a Python backend to fetch and serve AS400 DB2 data as JSON via ODBC",
+      "technologies": [
+        "Python",
+        "DB2",
+        "ODBC",
+        "JSON",
+        "Windows Task Scheduler"
+      ]
+    },
+    {
+      "name": "Apache Superset BI Implementation",
+      "description": "Configured and deployed Apache Superset on Ubuntu (WSL) for advanced business intelligence and data visualization",
+      "technologies": [
+        "Apache Superset",
+        "Ubuntu",
+        "WSL",
+        "Python",
+        "Data Visualization"
+      ],
+      "features": [
+        "Interactive dashboard creation",
+        "Multi-data source integration",
+        "Business intelligence reporting"
+      ]
+    },
+    {
+      "name": "UiPath RPA Solutions",
+      "description": "Developed multiple automation bots using UiPath Studio to automate repetitive administrative and data processing tasks",
+      "technologies": [
+        "UiPath",
+        "RPA",
+        "Process Automation"
+      ],
+      "integrations": [
+        "AS400",
+        "Web portals",
+        "Desktop applications"
+      ]
+    },
+    {
+      "name": "FreeCodeCamp Front-End Portfolio",
+      "description": "Built interactive web applications demonstrating proficiency in modern JavaScript libraries",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS"
+      ],
+      "projects": [
+        "Random Quote Machine",
+        "Drum Machine",
+        "JavaScript Calculator",
+        "Markdown Previewer",
+        "25+5 Clock"
+      ],
+      "link": "https://codepen.io/abellb-lk"
+    },
+    {
+      "name": "Habarana Farm Cottage Website",
+      "description": "Designed and developed a fully functional website for a hotel",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Colorlanka Tours",
+      "description": "Designed and developed a fully functional website for a tour company",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Wordpress"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Information Technology (External)",
+      "institution": "University of Colombo School of Computing",
+      "period": "2009 – 2015",
+      "status": "Pending (1Y GPA 2.16)"
+    },
+    {
+      "degree": "Computer Hardware & Installations",
+      "institution": "IADM Computer Training Center",
+      "period": "2005 – 2006"
+    }
+  ],
+  "certifications": [
+    {
+      "category": "Python & Data Science",
+      "items": [
+        {
+          "name": "Python for Programming",
+          "issuer": "CODL University of Moratuwa",
+          "year": "2023",
+          "verification": "wK02oBf4pr open.uom.lk/verify"
+        },
+        {
+          "name": "Python for Beginners",
+          "issuer": "CODL University of Moratuwa",
+          "year": "2023",
+          "verification": "rULmF12PM6 open.uom.lk/verify"
+        },
+        {
+          "name": "Data Analysis with Python",
+          "issuer": "Cognitive Class (IBM Developer Skills Network)",
+          "year": "05/2023",
+          "code": "DA0101EN"
+        },
+        {
+          "name": "Data Visualization with Python",
+          "issuer": "Cognitive Class (IBM Developer Skills Network)",
+          "year": "05/2023"
+        },
+        {
+          "name": "Python 101 for Data Science",
+          "issuer": "Cognitive Class (IBM Developer Skills Network)",
+          "year": "05/2023"
+        },
+        {
+          "name": "Data Science 101",
+          "issuer": "Cognitive Class (IBM Developer Skills Network)",
+          "year": "05/2023"
+        }
+      ]
+    },
+    {
+      "category": "Web Development",
+      "items": [
+        {
+          "name": "Front End Development Libraries",
+          "issuer": "FreeCodeCamp",
+          "year": "2023",
+          "link": "http://www.freecodecamp.org/certification/abellb/front-end-development-libraries"
+        },
+        {
+          "name": "Responsive Web Design",
+          "issuer": "FreeCodeCamp",
+          "year": "2023",
+          "link": "http://www.freecodecamp.org/certification/abellb/responsive-web-design"
+        },
+        {
+          "name": "PHP Tutorial Course",
+          "issuer": "Solo Learn",
+          "year": "10/2018",
+          "certificate": "#1059-9935914"
+        },
+        {
+          "name": "HTML Fundamental Course",
+          "issuer": "Solo Learn",
+          "year": "07/2018",
+          "certificate": "#1014-9935914"
+        },
+        {
+          "name": "SQL Fundamental Course",
+          "issuer": "Solo Learn",
+          "year": "02/2019",
+          "certificate": "#1060-9935914"
+        }
+      ]
+    },
+    {
+      "category": "Digital Marketing",
+      "items": [
+        {
+          "name": "Digital Marketing Certified",
+          "issuer": "Hubspot Academy",
+          "period": "02/2023 - 03/2025",
+          "link": "https://app.hubspot.com/connect/member/asankaekanayake"
+        },
+        {
+          "name": "Social Media Certified",
+          "issuer": "Hubspot Academy",
+          "period": "02/2023 - 03/2025",
+          "link": "https://app.hubspot.com/connect/member/asankaekanayake"
+        },
+        {
+          "name": "Microsoft Advertising Search Certification",
+          "issuer": "Microsoft Advertising",
+          "year": "2023",
+          "link": "www.credly.com/gq/p1X1mvv2"
+        },
+        {
+          "name": "Microsoft Advertising Shopping Certification",
+          "issuer": "Microsoft Advertising",
+          "year": "2023",
+          "link": "www.credly.com/gq/umfKyAAt"
+        },
+        {
+          "name": "The Fundamentals of Digital Marketing",
+          "issuer": "Google Digital Garage",
+          "year": "06/2020",
+          "certificate": "PS3 877 X83"
+        }
+      ]
+    },
+    {
+      "category": "Information Security",
+      "items": [
+        {
+          "name": "ISMS Implementation & Auditing",
+          "issuer": "Practical Experience",
+          "description": "Hands-on experience implementing and maintaining ISO/IEC 27001:2022 controls"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Sinhala",
+      "proficiency": "Native or Bilingual Proficiency"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Tamil",
+      "proficiency": "Elementary Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Elementary Proficiency"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Rambadagalla Assembly Volleyball Championship",
+      "year": "2000"
+    },
+    {
+      "name": "Rideegama Education Sector 100x4 - Third Place",
+      "year": "1999"
+    },
+    {
+      "name": "Rideegama Education Sector 100x4 - Third Place",
+      "year": "1997"
+    },
+    {
+      "name": "School Athletics Competitions Certificates",
+      "period": "1995 - 2001"
+    },
+    {
+      "name": "Adventure Challenge - Outward Bound Training",
+      "year": "2012"
+    }
+  ],
+  "additional_information": {
+    "notice": "References and additional documentation available upon request"
+  }
+}

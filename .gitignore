@@ -1,0 +1,13 @@
+# Local-only files that must not reach the Netlify deploy
+sms.php
+myCV.zip
+
+# Netlify CLI
+.netlify/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.log
